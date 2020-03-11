@@ -5,7 +5,7 @@
 
 
 @model List<DisplayAccountInfo.Models.UserAccount>
-
+@*TODO: I am following the template, but I would probably re-structure from the ground up this CSS. The pre-loaded html/css/bootstrap interaction included seem to be clashing with overlaying elements. The bootstrap import helps keep the page responsive*@
 <section class="grid">
     <header class="grid">
         <div class="title-container">
@@ -17,6 +17,7 @@
             <h2>Accounts</h2>
         </div>
         <section class="grid" id="account-grid">
+            @*Using razor pages, I felt putting logic here to display the different accounts fit*@
             <section class="account-column grid" id="active-account-column">
                 <div class="account-container-title" id="active-account-container-title">
                     <h3>Active</h3>

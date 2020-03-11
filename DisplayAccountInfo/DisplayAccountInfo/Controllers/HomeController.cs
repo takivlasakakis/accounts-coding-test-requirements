@@ -19,10 +19,17 @@ namespace DisplayAccountInfo.Controllers
 
         public async Task<ActionResult> Index()
         {
-            ViewBag.Message = "Your application description page.";
+            //My design was simple- to compile the application and on startup fire this main index method
+            //This would display the needed information on the only view page
+            //All information is presented
+            //With the http request, I was able to return the JSON from the endpoint and deserialize it into my designated class, UserAccount
+            //I passed the list of UserAccounts to View page and was able to render the relevant inforation according to the logic of the assignment.
+
             try
             {
                 List<UserAccount> requestForUserAccounts = await RequestToURL();
+
+                // I decided to abstract out various methods ie Format methods, keep concerns seperate
 
                 FormatUserAccountsPhoneNumber(requestForUserAccounts);
                 FormatCurrency(requestForUserAccounts);
@@ -75,7 +82,6 @@ namespace DisplayAccountInfo.Controllers
             foreach (var user in userAccountsList)
             {
                 user.FormattedPaymentDueDate = user.PaymentDueDate.Date.ToString("MM/dd/yyyy");
-
             }
             return userAccountsList;
         }
