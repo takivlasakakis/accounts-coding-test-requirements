@@ -1,0 +1,9 @@
+C:\Users\Taki\Documents\Code\Projects\accounts-coding-test-requirements\DisplayAccountInfo\DisplayAccountInfo\bin\Debug\netcoreapp1.1\DisplayAccountInfo.deps.json
+C:\Users\Taki\Documents\Code\Projects\accounts-coding-test-requirements\DisplayAccountInfo\DisplayAccountInfo\bin\Debug\netcoreapp1.1\DisplayAccountInfo.runtimeconfig.json
+C:\Users\Taki\Documents\Code\Projects\accounts-coding-test-requirements\DisplayAccountInfo\DisplayAccountInfo\bin\Debug\netcoreapp1.1\DisplayAccountInfo.runtimeconfig.dev.json
+C:\Users\Taki\Documents\Code\Projects\accounts-coding-test-requirements\DisplayAccountInfo\DisplayAccountInfo\bin\Debug\netcoreapp1.1\DisplayAccountInfo.dll
+C:\Users\Taki\Documents\Code\Projects\accounts-coding-test-requirements\DisplayAccountInfo\DisplayAccountInfo\bin\Debug\netcoreapp1.1\DisplayAccountInfo.pdb
+C:\Users\Taki\Documents\Code\Projects\accounts-coding-test-requirements\DisplayAccountInfo\DisplayAccountInfo\obj\Debug\netcoreapp1.1\DisplayAccountInfo.csprojResolveAssemblyReference.cache
+C:\Users\Taki\Documents\Code\Projects\accounts-coding-test-requirements\DisplayAccountInfo\DisplayAccountInfo\obj\Debug\netcoreapp1.1\DisplayAccountInfo.AssemblyInfo.cs
+C:\Users\Taki\Documents\Code\Projects\accounts-coding-test-requirements\DisplayAccountInfo\DisplayAccountInfo\obj\Debug\netcoreapp1.1\DisplayAccountInfo.dll
+C:\Users\Taki\Documents\Code\Projects\accounts-coding-test-requirements\DisplayAccountInfo\DisplayAccountInfo\obj\Debug\netcoreapp1.1\DisplayAccountInfo.pdb
